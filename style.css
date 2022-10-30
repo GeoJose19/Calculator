@@ -1,0 +1,56 @@
+.header{
+    background-color:transparent;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 100%;
+    height: 100px;
+    float: left;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.heading{
+    position: relative;left: 575px;
+    font-size: 30px;
+}
+
+
+.calc{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 400px;
+    border-radius: 20px;
+    height: 490px;
+    background: transparent;
+    position: relative;left: 500px;top: 30px;
+    float: left;
+}
+
+.output{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 20px;
+    width: 100%;
+    height: 103px;
+    background: transparent;
+}
+
+#screen{
+    pointer-events: none;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background: transparent;
+    border-radius: 20px;
+    width: 392px;
+    height: 99px;
+    position: relative;left: 0px;top: 0px;
+}
+
+.btn{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 100%;
+    width: 60px;
+    height: 55px;
+    margin-left: 30px;
+    margin-top: 20px;
+    background: transparent;
+}
